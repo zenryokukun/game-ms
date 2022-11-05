@@ -8,8 +8,7 @@ Websiteで後悔しているReact流[マインスイーパー改](https://www.ze
 1. このリポジトリをclone。
 
 ```
-git clone ~~
-```
+git clone https://github.com/zenryokukun/game-ms.git
 
 2. dependenciesをインストール
 
@@ -19,3 +18,10 @@ npm i
 
 yarnは使ったことないですごめんなさい。  
 インストールに時間に数分時間がかかります。321MBあるのでご留意ください。Reactは重い。
+
+## 実行
+
+```
+npm start
+```
+
