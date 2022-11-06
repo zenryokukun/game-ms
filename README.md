@@ -11,7 +11,13 @@ Websiteで公開しているReact流[マインスイーパー改](https://www.ze
 git clone https://github.com/zenryokukun/game-ms.git
 ```
 
-2. dependenciesをインストール
+2. game-msフォルダにcd
+
+```
+cd game-ms
+```
+
+3. dependenciesをインストール
 
 ```
 npm i
