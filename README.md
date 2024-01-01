@@ -1,3 +1,9 @@
+このリポジトリは```create-react-app```を利用しています。
+
+[vite版](https://github.com/zenryokukun/minesweeper-vite)を公開しましたので、拘りがなければこちらの利用をお願いいたします。
+
+---
+
 # Minesweeper極(KI-WA-MI)
 
 Websiteで公開しているReact流[マインスイーパー改](https://www.zenryoku-kun.com/production/minesweeperkai)のゲーム部分を
